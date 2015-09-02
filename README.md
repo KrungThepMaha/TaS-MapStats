@@ -1,1 +1,1 @@
-# TaS-MapStats
+# TaS-MapStatsChooser
